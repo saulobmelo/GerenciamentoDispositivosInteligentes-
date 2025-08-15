@@ -1,4 +1,4 @@
-# Sistema Modular para Gerenciamento de Dispositivos Inteligentes — PT-BR (Java)
+# Sistema Modular para Gerenciamento de Dispositivos Inteligentes — (Java)
 
 **Objetivo:** Middleware modular para cadastro e monitoramento de dispositivos inteligentes (sensores/atuadores), com eventos, execução de ações, aplicação de padrões **GOF** e princípios **SOLID**.
 
