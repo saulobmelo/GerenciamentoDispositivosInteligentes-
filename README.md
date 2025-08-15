@@ -20,7 +20,7 @@
    java Principal
    ```
 
-## Configurações (editar em `GerenciadorConfiguracao`)
+## Configurações
 - `ui.tema`: `escuro` | `claro`
 - `log.formato`: `CSV` | `JSON` | `TEXTO`
 - `evento.estrategia`: `IMEDIATA` | `ATRASADA` | `VALIDADA`
